@@ -14,4 +14,4 @@ I’m a Python-centric developer focused on **Backend Scalability** and **GenAI 
 | **AI/LLM** | LangChain, LangGraph, RAG, MCP Servers |
 | **Interests** | DSA, System Design, Automation |
 
-📫 **How to reach me:** [Your Email or LinkedIn Link]
+📫 **How to reach me:** [aryankumaruses@gmail.com]
