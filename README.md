@@ -1,16 +1,17 @@
-## Hi there 👋
+## 🚀 Engineering Intelligent Systems
+I’m a Python-centric developer focused on **Backend Scalability** and **GenAI Orchestration**. From designing complex PostgreSQL schemas to deploying multi-agent swarms, I love solving problems at scale.
 
-<!--
-**aryankumaruses/aryankumaruses** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### 🛠️ What I'm working on:
+* **AIRE:** An Intelligent Recruitment Engine utilizing LangChain and FastAPI.
+* **Multi-Agent Weather RAG:** A specialized RAG pipeline using tool-calling for real-time data retrieval.
+* **HRMS ERP:** A robust backend system built with SQLAlchemy and Alembic migrations.
 
-Here are some ideas to get you started:
+#### 🧰 Technical Toolbox:
+| Category | Tools |
+| :--- | :--- |
+| **Languages** | Python, SQL |
+| **Backend** | FastAPI, PostgreSQL, SQLAlchemy, Alembic |
+| **AI/LLM** | LangChain, LangGraph, RAG, MCP Servers |
+| **Interests** | DSA, System Design, Automation |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 **How to reach me:** [Your Email or LinkedIn Link]
